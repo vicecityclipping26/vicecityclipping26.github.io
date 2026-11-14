@@ -7,3 +7,5 @@ a { color: #0a58ca; }
 h1 { font-size: 28px; line-height: 1.25; }
 h2 { font-size: 20px; margin-top: 32px; }
 .muted { color: #666; font-size: 14px; }
+.notice { background: #f3f6fb; border: 1px solid #c9d6ea; border-radius: 8px; padding: 4px 16px; margin: 20px 0; }
+header a { font-weight: 600; }
